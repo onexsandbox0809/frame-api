@@ -1,0 +1,9 @@
+{
+  "name": "frame-cartoon-json-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JSON-to-multipart proxy for the imageframing.thq.digital frame-cartoon API",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
