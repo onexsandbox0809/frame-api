@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/frame-cartoon.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
