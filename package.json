@@ -4,6 +4,6 @@
   "private": true,
   "description": "JSON-to-multipart proxy for the imageframing.thq.digital frame-cartoon API",
   "engines": {
-    "node": ">=18.x"
+    "node": "20.x"
   }
 }
